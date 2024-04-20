@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JujareVinayak
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently working at Lowe's
-- 💞️ I’m looking to collaborate on Android Freelance projects.
+- 👀 I’m interested in Android Development.
+- 🌱 I’m currently working at Mercedes Benz R&D India.
+- 💞️ I previously worked with Lowes India, Motorola Solutions.
 - 📫 You can reach me at jujarev@gmail.com
 
 <!---
