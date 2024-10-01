@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JujareVinayak
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently working at Mercedes Benz R&D India.
-- 💞️ I previously worked with Lowes India, Motorola Solutions.
-- 📫 You can reach me at jujarev@gmail.com
+- 🌱 I’m currently working at Fidelity Investments as a Lead Mobile Developer(Android).
+- 🧑🏻‍💻 I previously worked with Mercedes Benz, Lowes India, Motorola Solutions.
 
 <!---
 JujareVinayak/JujareVinayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
